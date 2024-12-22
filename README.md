@@ -1,0 +1,1 @@
+This is a simple Monster game using Html,css and java script. This game have a Player and a Monster and implemented functionalities like Attack and Strong attack to attack the monster and Heal to heal the player. The attack by monster is auto and same time when the player attack the Monster. The damage value of both player and Monster is random.
